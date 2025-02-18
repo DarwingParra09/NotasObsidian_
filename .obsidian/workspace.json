@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "84ba00ea902f646a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b5cbea75999aaa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59441571e3794a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maquinas/HackTheBox/Chemestry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemestry"
+            }
+          },
+          {
+            "id": "d6e088e58e7fcd26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maquinas/HackTheBox/Alert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alert"
+            }
+          },
+          {
+            "id": "8d4d13b66a543821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maquinas/HackTheBox/Heal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heal"
+            }
+          },
+          {
+            "id": "c9ea1c63f7c5341a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maquinas/HackTheBox/Linkvortex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linkvortex"
+            }
+          },
+          {
+            "id": "0da17dde02413075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maquinas/HackTheBox/Alert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alert"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c9a72bf11fdb896",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4880c79361e5c54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "750214973e23e285",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "2f958448ae255199",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "6ff2f4d7790fc0b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d406273b3ac70f55",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5188d6813314969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a346650f13f6372",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maquinas/HackTheBox/Alert.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Alert"
+            }
+          },
+          {
+            "id": "f83ee6c544f0e81e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maquinas/HackTheBox/Alert.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Alert"
+            }
+          },
+          {
+            "id": "1e1cd0d3c3f3199a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5d912b06f99be927",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maquinas/HackTheBox/Alert.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Alert"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "750214973e23e285",
+  "lastOpenFiles": [
+    "Imagenes",
+    "Imagenes/Pasted image 20250218113203.png",
+    "Maquinas/HackTheBox/Bienvenido.md",
+    "Maquinas/HackTheBox/Alert.md",
+    "Maquinas/HackTheBox/Linkvortex.md",
+    "Maquinas/HackTheBox/Underpass.md",
+    "Maquinas/HackTheBox/Heal.md",
+    "Maquinas/HackTheBox/Chemestry.md",
+    "Maquinas/Vulnhub",
+    "Maquinas/HackTheBox",
+    "Maquinas"
+  ]
+}
